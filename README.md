@@ -4,7 +4,7 @@ Here’s a **README.md** file for your **Animated Cart Card Design** project:
 
 # 🛒 Animated Cart Card  
 
-A modern, responsive, and animated **Cart Card UI** built with **HTML & CSS**. This design enhances the shopping cart experience with smooth animations and a clean, user-friendly layout.
+A modern, responsive, and animated **Cart Card UI** built with **HTML, CSS & JavaScript**. This design enhances the shopping cart experience with smooth animations and a clean, user-friendly layout.
 
 ## 🎨 Features  
 
@@ -15,20 +15,20 @@ A modern, responsive, and animated **Cart Card UI** built with **HTML & CSS**. T
 
 ## 📸 Preview  
 
-![Cart Card Preview](https://your-image-url.com) *(Replace with actual screenshot or GIF)*  
+![Cart Card Preview](https://github.com/geveyesyem14/animation-card/blob/main/card-design.png)
 
 ## 🛠️ Technologies Used  
 
 - **HTML5**  
-- **CSS3** (Flexbox & Grid)  
+- **CSS3** 
 - **Google Fonts (Inter)**  
-- **CSS Transitions & Animations**  
+- **JavaScript**  
 
 ## 🚀 Installation & Usage  
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/animated-cart-card.git
+   git clone https://github.com/geveyesyem14/animation-card.git
    ```
 2. Open `index.html` in your browser.  
 3. Customize the **CSS** to match your brand's style.  
@@ -37,12 +37,11 @@ A modern, responsive, and animated **Cart Card UI** built with **HTML & CSS**. T
 
 - Change font: Edit `@import` in the CSS file.  
 - Modify colors: Update variables or classes in `styles.css`.  
-- Adjust animations: Modify `transition` and `animation` properties.  
+- Adjust animations: Modify `transition` and `animation` properties.
+- Change the script `script.js` as per your need.
 
 ## 📜 License  
 
 This project is **open-source** and available under the [MIT License](LICENSE).  
 
 ---
-
-Would you like me to add a **live demo link** or improve anything else? 😊
